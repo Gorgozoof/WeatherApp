@@ -1,0 +1,25 @@
+1. Definicja celu i zakresu projektu
+Określenie celu: Aplikacja pogodowa z API.
+Zakres projektu: Pobieranie danych z API, wyświetlanie ich w aplikacji, możliwość wpisania z jakiego miasta ma pobierać pogodę.
+2. Analiza zasobów i ograniczeń
+Zasoby: Ja(4 godziny snu), ChatGtp, Ja(9 godzin snu), Android Studio .
+Ograniczenia: Chat nie umie w nowe wersje Android Studio, .
+3. Planowanie projektu
+Plan projektu: Opracowanie funkcji pobierania z API OpenWeather na podstawie wcześniejszego projektu w Pythonie, graficzne stworzenie layoutu, pobranie obrazków z Freepik i dołączenie ich w kodzie,
+  stworzenie funkcji zmieniania się miasta w zeleżności od pola tekstowego, Naprawa błędów, upload projektu na Githuba, naprawa błędów związanych z uploadem na Github .
+Harmonogram: Wszystko robione po weekendach lub wtorkiem na lekcji/rano.
+Budżet: 0zł , nadzieja.
+4. Zaprojektowanie i rozwój
+Projektowanie: Projektowanie graficzne layoutu, Pisanie/Generowanie kodu w języku Kotlinin, Wszystko robione w Androind Studio.
+Prototypowanie i testowanie: Debugowanie i sprawdzanie działania aplikacji, kontrola błędów w konsoli.
+Iteracje:  Zmiana sposobu w jaki działa wyświteltanie się informacji by nie było błędów, Strata nadzieji , uproszcenie kodu i dodanie komentarzy.
+5. Realizacja
+Implementacja: Wdrażanie projektu w życie zgodnie z zaplanowanymi krokami.
+Monitorowanie postępów: Dzień 1: wszystko działa , Dzień 2: Nic nie działa, Dzień 3: Trochę działa: Dzień 5,6,7: znowu działa .
+6. Zakończenie projektu
+Ocena końcowa: Najważniejsze cele zrealizowane.
+Raport końcowy: ZROBIONY O TUTAJ.
+Przekazanie projektu:  Do przekazania panu Dutkiewiczowi .
+7. Przegląd/Co jest do zmany
+Przegląd projektu: Wpisywanie miast nie działa z polskimi znakami.
+Zaplanowanie zmian: Zmiana klawiatury na Polską.
